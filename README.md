@@ -4,19 +4,16 @@
 **Micro-Lending & Peer Credit Risk Assessor**
 
 ### Included deliverables
-1. `01_Requirements_Table.docx` — polished requirements table.
-2. `01_Requirements_Table.xlsx` — editable spreadsheet version.
-3. `02_Use_Case_Flow_UC01.docx` — one-page use-case flow.
-4. `02_Use_Case_Flow_UC01.pdf` — PDF export of the use-case flow.
-5. `03_UML_Use_Case_Diagram.pdf` — UML use-case diagram with actors, use cases, `«include»`, and `«extend»`.
-6. `README.md` — repository notes.
+
+1. `01_Requirements_Table.xlsx` — editable spreadsheet version.
+2. `02_Use_Case_Flow_UC01.docx` — one-page use-case flow.
+3. `03_UML_Use_Case_Diagram.drawio` —use-case diagram with actors, use cases, `«include»`, and `«extend»`.
+4. `README.md` — repository notes.
 
 ### Suggested GitHub repository structure
 ```text
 Lab-1-Requirements-Engineering/
 ├── 01_Requirements_Table.xlsx
-├── 01_Requirements_Table.docx
-├── 02_Use_Case_Flow_UC01.pdf
 ├── 02_Use_Case_Flow_UC01.docx
 ├── 03_UML_Use_Case_Diagram.pdf
 └── README.md
